@@ -1,0 +1,14 @@
+D:\Sem 4\.net\p3\obj\Debug\net10.0\p3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Sem 4\.net\p3\obj\Debug\net10.0\p3.AssemblyInfoInputs.cache
+D:\Sem 4\.net\p3\obj\Debug\net10.0\p3.AssemblyInfo.cs
+D:\Sem 4\.net\p3\obj\Debug\net10.0\p3.csproj.CoreCompileInputs.cache
+D:\Sem 4\.net\p3\bin\Debug\net10.0\p3.exe
+D:\Sem 4\.net\p3\bin\Debug\net10.0\p3.deps.json
+D:\Sem 4\.net\p3\bin\Debug\net10.0\p3.runtimeconfig.json
+D:\Sem 4\.net\p3\bin\Debug\net10.0\p3.dll
+D:\Sem 4\.net\p3\bin\Debug\net10.0\p3.pdb
+D:\Sem 4\.net\p3\obj\Debug\net10.0\p3.dll
+D:\Sem 4\.net\p3\obj\Debug\net10.0\refint\p3.dll
+D:\Sem 4\.net\p3\obj\Debug\net10.0\p3.pdb
+D:\Sem 4\.net\p3\obj\Debug\net10.0\p3.genruntimeconfig.cache
+D:\Sem 4\.net\p3\obj\Debug\net10.0\ref\p3.dll
