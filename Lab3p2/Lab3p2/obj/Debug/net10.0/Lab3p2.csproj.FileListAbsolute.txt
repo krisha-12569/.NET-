@@ -1,0 +1,14 @@
+D:\Sem 4\.net\Lab3p2\Lab3p2\bin\Debug\net10.0\Lab3p2.exe
+D:\Sem 4\.net\Lab3p2\Lab3p2\bin\Debug\net10.0\Lab3p2.deps.json
+D:\Sem 4\.net\Lab3p2\Lab3p2\bin\Debug\net10.0\Lab3p2.runtimeconfig.json
+D:\Sem 4\.net\Lab3p2\Lab3p2\bin\Debug\net10.0\Lab3p2.dll
+D:\Sem 4\.net\Lab3p2\Lab3p2\bin\Debug\net10.0\Lab3p2.pdb
+D:\Sem 4\.net\Lab3p2\Lab3p2\obj\Debug\net10.0\Lab3p2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Sem 4\.net\Lab3p2\Lab3p2\obj\Debug\net10.0\Lab3p2.AssemblyInfoInputs.cache
+D:\Sem 4\.net\Lab3p2\Lab3p2\obj\Debug\net10.0\Lab3p2.AssemblyInfo.cs
+D:\Sem 4\.net\Lab3p2\Lab3p2\obj\Debug\net10.0\Lab3p2.csproj.CoreCompileInputs.cache
+D:\Sem 4\.net\Lab3p2\Lab3p2\obj\Debug\net10.0\Lab3p2.dll
+D:\Sem 4\.net\Lab3p2\Lab3p2\obj\Debug\net10.0\refint\Lab3p2.dll
+D:\Sem 4\.net\Lab3p2\Lab3p2\obj\Debug\net10.0\Lab3p2.pdb
+D:\Sem 4\.net\Lab3p2\Lab3p2\obj\Debug\net10.0\Lab3p2.genruntimeconfig.cache
+D:\Sem 4\.net\Lab3p2\Lab3p2\obj\Debug\net10.0\ref\Lab3p2.dll
